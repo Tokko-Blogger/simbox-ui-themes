@@ -1,5 +1,5 @@
 {
-	"name": "bloggeria",
+	"name": "simbox-UI",
 	"version": "2.0.0",
 	"description": "No Description Found!",
 	"main": "gulpfile.js",
@@ -7,25 +7,25 @@
 		"build": "gulp tasks"
 	},
 	"keywords": [
-		"elcreative",
+		"tokkoblogger",
 		"blogger",
 		"blogspot",
 		"template"
 	],
 	"author": {
-		"name": "Yasya El Hakim",
-		"email": "yasyaelhakim@gmail.com",
-		"url": "https://www.elcreativeacademy.com"
+		"name": "Tokko Blogger",
+		"email": "tokkoblogger@gmail.com",
+		"url": "https://tokkoblogger.blogspot.com"
 	},
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/elhakimyasya/Bloggeria.git"
+		"url": "git+https://github.com/twinnybloggers/SimBox-UI.git"
 	},
 	"bugs": {
-		"url": "https://github.com/elhakimyasya/Bloggeria/issues"
+		"url": "https://github.com/twinnybloggers/SimBox-UI/issues"
 	},
-	"homepage": "https://github.com/elhakimyasya/Bloggeria#readme",
+	"homepage": "https://github.com/twinnybloggers/SimBox-UI#readme",
 	"devDependencies": {
 		"gulp": "^4.0.2",
 		"gulp-rename": "^2.0.0"
